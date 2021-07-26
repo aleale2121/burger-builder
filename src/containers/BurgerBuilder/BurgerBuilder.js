@@ -90,7 +90,7 @@ class BurgerBuilder extends Component {
     });
   };
   purchaseContinueHandler = () => {
-    alert("U continue!");
+    // alert("U continue!");
   };
   render() {
     const disabledInfo = {
